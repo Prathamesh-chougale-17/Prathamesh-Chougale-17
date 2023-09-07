@@ -19,4 +19,4 @@
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <p>
 
-<p align="center"> <img width="1000" height="680" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Chougale-17&show_icons=true&theme=gotham" alt="Prathamesh-Chougale-17" />
+<p align="center"> <img width="1000" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Chougale-17&show_icons=true&theme=gotham" alt="Prathamesh-Chougale-17" />
