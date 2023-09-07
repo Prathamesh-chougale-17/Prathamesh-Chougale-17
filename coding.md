@@ -17,4 +17,4 @@ Hi, I'm Prathamesh Chougale, a full stack web developer from india.
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Chougale-17&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
