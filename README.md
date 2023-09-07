@@ -1,4 +1,4 @@
-<h1>Hi, I'm Prathamesh Chougale</h1>
+<h1>Hi, I'm Prathamesh Chougale, a Web Developer</h1>
 
   <img align="right" alt="GIF" src="code.gif" width="1000" height="680" />
 <br></br>
