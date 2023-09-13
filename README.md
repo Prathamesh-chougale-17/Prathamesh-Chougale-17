@@ -4,8 +4,6 @@
 <br></br>
 
 
-  <h1 align="center">My learning path</h1>
-
   
 <p align="center">
 <h3 align="center"> <img src="code-gif.gif" width = 20px> Tech Stack <img src="code-gif.gif" width = 20px> </h3>
