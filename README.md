@@ -22,7 +22,7 @@
 <tr>
 <td>Development</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript" />
   </a>
 </td>
 </tr>
@@ -70,7 +70,7 @@
 <tr>
 <td>Tools</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,replit,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,replit,stackoverflow,postman" />
   </a>
 </td>
 </tr>
