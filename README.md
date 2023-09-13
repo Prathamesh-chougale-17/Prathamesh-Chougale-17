@@ -50,10 +50,12 @@
 </td>
 </tr>
 
+
+
 <tr>
-<td>Database</td>
+<td>Gaming</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=unity,blender" />
   </a>
  </td>
 </tr>
