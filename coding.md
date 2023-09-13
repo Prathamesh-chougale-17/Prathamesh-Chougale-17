@@ -3,7 +3,7 @@
 <tr>
 <td>Language</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=r,python" />
 </a> 
 </td>
 </tr>
