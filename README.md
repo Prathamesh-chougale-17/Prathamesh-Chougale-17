@@ -2,11 +2,6 @@
 
   <img align="right" alt="GIF" src="code.gif" width="1000" height="680" />
   
-<br>
-<br>
-<br>
-
-  
 <p align="center">
 <h1 align="center"> <img src="code-gif.gif" width = 40px> Tech Logs <img src="code-gif.gif" width = 40px> </h1>
 
