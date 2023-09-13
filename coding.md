@@ -35,7 +35,7 @@
 <tr>
 <td>Backend Framework</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
    </a>
 </td>
 </tr>
@@ -57,11 +57,11 @@
   </a>
 </td>
 </tr>
-<tr>
+<!-- <tr>
 <td>Tools</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
     <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,replit,stackoverflow,postman" />
   </a>
 </td>
-</tr>
+</tr> -->
 </table>
