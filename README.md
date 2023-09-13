@@ -8,15 +8,74 @@
 
   
 <p align="center">
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<h3 align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px> Tech Stack <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 20px> </h3>
+
+<table align="center">
+<tr>
+<td>Language</td>
+<td> <a href="https://github.com/Suraj-Encoding" >
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</a> 
+</td>
+</tr>
+
+<tr>
+<td>Development</td>
+<td> <a href="https://github.com/Suraj-Encoding" >
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript" />
+  </a>
+</td>
+</tr>
+
+<tr>
+<td>CSS Framework</td>
+<td> <a href="https://github.com/Suraj-Encoding" >
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+  </a>
+ </td>
+</tr>
+<tr>
+<td>Frontend Framework</td>
+<td> <a href="https://github.com/Suraj-Encoding" >
+    <img src="https://skillicons.dev/icons?i=react,angular" />
+  </a>
+ </td>
+</tr>
+
+<tr>
+<td>Backend Framework</td>
+<td> <a href="https://github.com/Suraj-Encoding" >
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+   </a>
+</td>
+</tr>
+
+<tr>
+<td>Database</td>
+<td> <a href="https://github.com/Suraj-Encoding" >
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+ </td>
+</tr>
+
+<tr>
+<td>Hosting</td>
+<td> <a href="https://github.com/Suraj-Encoding" >
+    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,github,aws" />
+  </a>
+</td>
+</tr>
+<tr>
+<td>Tools</td>
+<td> <a href="https://github.com/Suraj-Encoding" >
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,docker,replit,stackoverflow" />
+  </a>
+</td>
+</tr>
+</table>
+
+<hr>
 <p>
 
 <p align="center"> <img width="750" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Chougale-17&show_icons=true&theme=gotham" alt="Prathamesh-Chougale-17" />
+
