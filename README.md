@@ -61,14 +61,14 @@
 <tr>
 <td>Hosting</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,github,aws" />
+    <img src="https://skillicons.dev/icons?i=vercel,firebase,github,aws" />
   </a>
 </td>
 </tr>
 <tr>
 <td>Tools</td>
 <td> <a href="https://github.com/Suraj-Encoding" >
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,androidstudio,docker,replit,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,replit,stackoverflow" />
   </a>
 </td>
 </tr>
