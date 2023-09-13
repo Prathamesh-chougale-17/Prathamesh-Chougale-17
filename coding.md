@@ -1,22 +1,67 @@
-<h1>Hi, I'm Prathamesh Chougale</h1>
+<h2 align = "center">Tech Stack</h2>
+<table align="center">
+<tr>
+<td>Language</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</a> 
+</td>
+</tr>
 
-  <img align="right" alt="GIF" src="code.gif" width="1000" height="680" />
-<br></br>
+<tr>
+<td>Development</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript" />
+  </a>
+</td>
+</tr>
+
+<tr>
+<td>CSS Framework</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+  </a>
+ </td>
+</tr>
+
+<tr>
+<td>Frontend Framework</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img src="https://skillicons.dev/icons?i=react,angular" />
+  </a>
+ </td>
+</tr>
+
+<tr>
+<td>Backend Framework</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+   </a>
+</td>
+</tr>
 
 
-  <h1>My learning path</h1>
 
-  
-<p align="left">
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<p>
+<!-- <tr>
+<td>Gaming</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img src="https://skillicons.dev/icons?i=unity,blender" />
+  </a>
+ </td>
+</tr> -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Chougale-17&show_icons=true&theme=gotham" alt="Prathamesh-Chougale-17" />
+<tr>
+<td>Hosting</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img src="https://skillicons.dev/icons?i=vercel,firebase,github,aws" />
+  </a>
+</td>
+</tr>
+<tr>
+<td>Tools</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,replit,stackoverflow,postman" />
+  </a>
+</td>
+</tr>
+</table>
