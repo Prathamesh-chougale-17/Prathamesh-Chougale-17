@@ -87,6 +87,7 @@
 <a href="Prathamesh-chougale-17">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Prathamesh-chougale-17&show_icons=true&include_all_commits=true&theme=radical" alt="prathamesh's github stats" />
 </a>
+<p></p>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prathamesh-chougale-17&layout=compact&theme=radical" />
 </a>
 </div>
