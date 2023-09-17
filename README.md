@@ -83,12 +83,13 @@
 </p>
 
 
-
+<div align='center'>
 <a href="Prathamesh-chougale-17">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Prathamesh-chougale-17&show_icons=true&include_all_commits=true&theme=radical" alt="prathamesh's github stats" />
 </a>
 <a align='center' width='100%' href="Prathamesh-chougale-17/Prathamesh-chougale-17/github-readme-stats">
 </a>
 
-<img align="center" width='100%' src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prathamesh-chougale-17&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prathamesh-chougale-17&layout=compact&theme=radical" />
 </a>
+</div>
