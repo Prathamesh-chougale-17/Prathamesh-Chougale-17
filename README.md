@@ -1,4 +1,4 @@
-<h1>Hi, I'm Prathamesh Chougale, a Web Developer</h1>
+# Hii there 👋,I'm Prathamesh Chougale a Web Developer and a Competitive Programmer
 
   <img align="right" alt="GIF" src="code.gif" width="1000" height="680" />
   
