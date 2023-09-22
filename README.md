@@ -90,4 +90,13 @@
 <p></p>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prathamesh-chougale-17&layout=compact&theme=radical" />
 </a>
+<p></p>
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-chougale-17&theme=cobalt)](https://github.com/prathamesh-chougale-17)
+
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 </div>
