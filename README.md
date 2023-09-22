@@ -84,6 +84,9 @@
 
 
 <div align='center'>
+
+# MY GITHUB STATS
+
 <a href="Prathamesh-chougale-17">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Prathamesh-chougale-17&show_icons=true&include_all_commits=true&theme=radical" alt="prathamesh's github stats" />
 </a>
