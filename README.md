@@ -1,9 +1,8 @@
 # Hii there 👋,I'm Prathamesh Chougale a Web Developer and a Competitive Programmer
 
   <img align="right" alt="GIF" src="code.gif" width="1000" height="680" />
-  
 <p align="center">
-<p></p>
+  
 <div>
 <h1 align="center"> <img src="code-gif.gif" width = 40px> Tech Logs <img src="code-gif.gif" width = 40px> </h1>
 
@@ -19,7 +18,7 @@
 <tr>
 <td>Development</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,pug,handlebars" />
   </a>
 </td>
 </tr>
@@ -28,13 +27,15 @@
 <td>CSS Framework</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+    <img height="50rem" src=chakra.jpg/>
+    <img height="50rem" src=daisy.png/>
   </a>
  </td>
 </tr>
 <tr>
 <td>Frontend Framework</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
-    <img src="https://skillicons.dev/icons?i=react,angular" />
+    <img src="https://skillicons.dev/icons?i=react,vite,next" />
   </a>
  </td>
 </tr>
@@ -42,7 +43,15 @@
 <tr>
 <td>Backend Framework</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+    <img height="50rem" src = './zod.svg'/>
+   </a>
+</td>
+</tr>
+
+<td>Database</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
    </a>
 </td>
 </tr>
