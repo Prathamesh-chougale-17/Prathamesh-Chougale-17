@@ -60,7 +60,7 @@
 <tr>
 <td>Hosting</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
-    <img src="https://skillicons.dev/icons?i=vercel,firebase,github" />
+    <img src="https://skillicons.dev/icons?i=vercel,github" />
   </a>
 </td>
 </tr>
