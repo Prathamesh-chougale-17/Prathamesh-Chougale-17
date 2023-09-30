@@ -20,6 +20,8 @@
 <td>CSS Framework</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+    <img src="" height="50rem"/>
+
   </a>
  </td>
 </tr>
