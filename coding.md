@@ -3,7 +3,7 @@
 <tr>
 <td>Language</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
-    <img src="https://skillicons.dev/icons?i=r,python" />
+    <img src="https://skillicons.dev/icons?i=python" />
 </a> 
 </td>
 </tr>
@@ -25,17 +25,15 @@
 </tr>
 
 <tr>
-<td>Frontend Framework</td>
+<td>Frontend and backend Framework</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
-    <img src="https://skillicons.dev/icons?i=react,angular" />
+    <img src="https://skillicons.dev/icons?i=next" />
   </a>
  </td>
 </tr>
-
-<tr>
-<td>Backend Framework</td>
+<td>Database</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
    </a>
 </td>
 </tr>
@@ -51,9 +49,16 @@
 </tr> -->
 
 <tr>
+<td>Cloud</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img src="https://skillicons.dev/icons?i=googlecloud" />
+  </a>
+</td>
+</tr>
+<tr>
 <td>Hosting</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
-    <img src="https://skillicons.dev/icons?i=vercel,firebase,github,aws" />
+    <img src="https://skillicons.dev/icons?i=vercel,firebase,github" />
   </a>
 </td>
 </tr>
