@@ -1,4 +1,4 @@
-# Hii there 👋,I'm Prathamesh Chougale a Web Developer and a Competitive Programmer
+# Hii there 👋,I'm Prathamesh Chougale a Full Stack Developer and a Competitive Programmer
 
   <img align="right" alt="GIF" src="code.gif" width="1000" height="680" />
 <p align="center">
@@ -116,6 +116,7 @@
 
 <a href="Prathamesh-chougale-17">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Prathamesh-chougale-17&show_icons=true&include_all_commits=true&theme=radical" alt="prathamesh's github stats" />
+  <!-- <img  src="https://github-stats-lemon.vercel.app/api?username=Prathamesh-chougale-17&show_icons=true&hide_border=true&theme=react"align="right" > -->
 </a>
 <p></p>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prathamesh-chougale-17&layout=compact&theme=radical" />
