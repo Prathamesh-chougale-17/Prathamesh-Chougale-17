@@ -4,7 +4,11 @@
 <p align="center">
   
 <div>
-<h1 align="center"> <img src="code-gif.gif" width = 40px> Tech Logs <img src="code-gif.gif" width = 40px> </h1>
+
+<br>
+<br>
+<br>
+<h1 align="center">Tech Logs</h1>
 
 <table align="center">
 <tr>
@@ -27,11 +31,21 @@
 <td>CSS Framework</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
-    <img height="50rem" src=chakra.jpg/>
-    <img height="50rem" src=daisy.png/>
   </a>
  </td>
 </tr>
+
+<tr>
+<td>UI</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img height="50rem" src=chakra.jpg/>
+    <img height="50rem" src=daisy.png/>
+    <img height="50rem" src=shadn.png />
+
+  </a>
+ </td>
+</tr>
+
 <tr>
 <td>Frontend Framework</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
@@ -108,7 +122,13 @@
 </a>
 <p></p>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-chougale-17&theme=cobalt)](https://github.com/prathamesh-chougale-17)
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-chougale-17&theme=react">
 
 </p>
+
+<br>
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh-chougale-17&theme=react-dark)
+<br>
+
 </div>
