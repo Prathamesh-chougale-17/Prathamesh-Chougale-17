@@ -69,9 +69,16 @@
 <tr>
 <td>Backend Framework</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
     <img height="50rem" src = './zod.svg'/>
     <img height="50rem" src = './flask.png'/>
+   </a>
+</td>
+</tr>
+<tr>
+<td>Backend Adapter</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+    <img src="https://skillicons.dev/icons?i=prisma" />
     <img height="50rem" src = './nextauth.png'/>
     <img height="50rem" src = "./resend.png"/>
    </a>
