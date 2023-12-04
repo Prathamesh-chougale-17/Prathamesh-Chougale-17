@@ -71,13 +71,25 @@
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
     <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
     <img height="50rem" src = './zod.svg'/>
+    <img height="50rem" src = './flask.png'/>
+    <img height="50rem" src = './nextauth.png'/>
+    <img height="50rem" src = "./resend.png"/>
    </a>
 </td>
 </tr>
 
+<tr>
 <td>Database</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+   </a>
+</td>
+</tr>
+<tr>
+<td>CMS</td>
+<td> <a href="https://github.com/Prathamesh-chougale-17" >
+<img src="./sanity.png" height="50rem"/>
+
    </a>
 </td>
 </tr>
