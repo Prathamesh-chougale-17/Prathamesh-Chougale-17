@@ -115,6 +115,7 @@
 <td>Tools</td>
 <td> <a href="https://github.com/Prathamesh-chougale-17" >
     <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,docker,replit,stackoverflow,postman" />
+    <img src="./jupyter.png" height="50rem"/>
   </a>
 </td>
 </tr>
