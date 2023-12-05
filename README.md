@@ -14,11 +14,12 @@
 - 📝 [Personal Website](https://www.prathameshchougale.me/)
 <div>
 
-<h1 align="center">Connect with me:</h1>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/prathamesh-chougale/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="prathamesh-chougale-17" height="30" width="30" /></a>
 <a href="https://www.instagram.com/prathamesh_chougale_17/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="prathamesh_chougale_17" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/profile/prathamesh17170" target="blank"><img align="center" src="https://img.icons8.com/windows/32/000000/hackerrank.png" alt="prathameshchoug1" height="30" width="30" />
+<a href="https://www.hackerrank.com/profile/prathamesh17170" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="prathameshchoug1" height="30" width="30" />
+<a href="https://www.codechef.com/users/prathamesh1717" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo-mobile.svg" alt="prathameshchoug1" height="30" width="30" />
 <div>
 <br>
 <h1 align="center">Languages and Tools:</h1>
