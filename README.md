@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FFA500&size=30&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+Profile!;I'm+Prathamesh+Chougale;Nice+to+meet+you!">
 </p>
 
-- 🔭 I’m currently working on **Next Js**
-- 🌱 I’m currently learning **Blender**
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🔭 I’m currently working on **Machine Learning**
+- 🌱 I’m currently making **Fullstack Webpage**
+- 👯 I’m open to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Competitive Programming**
 - 💬 Ask me about **Nextjs, Vercel, React, Node, Express, MongoDB, MySQL, Firebase, HTML, CSS, JavaScript, TypeScript, C, C++, Java, Python**
 - 📝 [Resume](https://drive.google.com/file/d/1KwtaMQPzrariT9tsGEXA8f3Eudnksz5t/view?usp=sharing)
@@ -140,11 +140,11 @@
 
 
 <a href="https://github.com/Prathamesh-Chougale-17">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Prathamesh-chougale-17&show_icons=true&include_all_commits=true&theme=radical" alt="prathamesh's github stats" ></img>
-  <!-- <img  src="https://github-stats-lemon.vercel.app/api?username=Prathamesh-chougale-17&show_icons=true&hide_border=true&theme=react"align="right" > -->
+  <img  src="https://github-stats-lemon.vercel.app/api?username=Prathamesh-chougale-17&show_icons=true&hide_border=true&theme=react"align="right" >
+  
 </a>
 <!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prathamesh-chougale-17&layout=compact&theme=radical" /> -->
-<p></p>
+<br>
 <a align="center" href="https://github.com/Prathamesh-Chougale-17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-Chougale-17&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <p></p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-chougale-17&theme=react">
