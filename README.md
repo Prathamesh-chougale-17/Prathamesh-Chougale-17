@@ -140,13 +140,13 @@
 
 
 <a href="https://github.com/Prathamesh-Chougale-17">
-  <img  src="https://github-stats-lemon.vercel.app/api?username=Prathamesh-chougale-17&show_icons=true&hide_border=true&theme=react"align="right" >
+  <img  src="https://github-stats-lemon.vercel.app/api?username=Prathamesh-chougale-17&show_icons=true&hide_border=true&theme=react" >
   
 </a>
 <!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prathamesh-chougale-17&layout=compact&theme=radical" /> -->
 <br>
-<a align="center" href="https://github.com/Prathamesh-Chougale-17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-Chougale-17&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<p></p>
+<a align="center" href="https://github.com/Prathamesh-Chougale-17"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-Chougale-17&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-chougale-17&theme=react">
 
 </p>
