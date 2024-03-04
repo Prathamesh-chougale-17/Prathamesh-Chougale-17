@@ -150,7 +150,9 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-chougale-17&theme=react">
 
 </p>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=prathamesh-chougale-17&label=Profile%20Views&pretty=false" />
+</a>
 <br>
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh-chougale-17&theme=react-dark)
