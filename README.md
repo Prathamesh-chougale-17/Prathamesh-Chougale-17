@@ -1,4 +1,4 @@
-# Hii there 👋,I'm Prathamesh Chougale a Full Stack Developer and a Competitive Programmer
+# Hii there 👋,I'm Prathamesh Chougale a Full Stack Developer, Machine Learning Learner and a Competitive Programmer
 
   <img align="right" alt="GIF" src="code.gif" width="1000" height="380" />
 <p align="center">
