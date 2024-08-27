@@ -10,7 +10,6 @@
 - 👯 I’m open to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with **Competitive Programming**
 - 💬 Ask me about **Nextjs, Vercel, React, Node, Express, MongoDB, MySQL, Firebase, HTML, CSS, JavaScript, TypeScript, C, C++, Java, Python**
-- 📝 [Resume](https://drive.google.com/file/d/1KwtaMQPzrariT9tsGEXA8f3Eudnksz5t/view?usp=sharing)
 - 📝 [Personal Website](https://www.prathameshchougale.me/)
 <div>
 
