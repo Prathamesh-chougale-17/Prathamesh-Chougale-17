@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Chougale</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-chougale-17&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-chougale-17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamesh-chougale-17" alt="prathamesh-chougale-17" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [prathameshchougale.me](https://prathameshchougale.me)
 
@@ -27,3 +24,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Prathamesh-chougale-17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-chougale-17&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-chougale-17" /> </p>
