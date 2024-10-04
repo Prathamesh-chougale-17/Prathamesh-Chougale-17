@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamesh-chougale-17" alt="prathamesh-chougale-17" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [prathameshchougale.me](prathameshchougale.me)
+- 👨‍💻 All of my projects are available at [prathameshchougale.me](https://prathameshchougale.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
