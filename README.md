@@ -26,3 +26,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Prathamesh-chougale-17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-chougale-17&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-chougale-17" /> </p>
+<!-- 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=02F7C2&center=true&vCenter=true&width=500&height=50&lines=I+code+in+Next.js+%7C+C%2B%2B+%7C+Golang;DevOps+%7C+Docker+%7C+Kubernetes+Explorer;Cloud+Native+Microservices+Learner;Competitive+Programming+Enthusiast+%7C+Problem+Solver">
+</p> -->
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathamesh-chougale-17&theme=react-dark)
