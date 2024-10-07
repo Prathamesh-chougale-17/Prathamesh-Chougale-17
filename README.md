@@ -8,7 +8,7 @@
 <p align="left">
 <a href="https://twitter.com/prathamesh_7717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathamesh_7717" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prathamesh-chougale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-chougale" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prathameshchougale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathameshchougale" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prathameshchougale17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathameshchougale" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prathamesh_chougale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamesh_chougale" height="30" width="40" /></a>
 </p>
 
