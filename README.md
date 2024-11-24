@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [prathameshchougale.me](https://prathameshchougale.me)
+- 👨‍💻 All of my projects are available at [Prathamesh Chougale](https://prathamesh-chougale.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
